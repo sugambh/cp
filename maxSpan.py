@@ -1,3 +1,5 @@
+## for calculating span of a element in array
+
 def get_span(a, num):
     i = 0
     j = len(a) - 1
